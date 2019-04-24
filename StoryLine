@@ -24,4 +24,15 @@ Extras: Add information about every virus when they spawn in map new, keep the v
 then the bit on right about its information in the game
 -Database at the end, 200 hp (can be changed just edit) attacked by viruses, if killed game over
 -As game over, it should have an ecrypted lock being opened 
--
+
+Messages end game:
+Level 1 Victory: Unknown: Well done, you have defeated the hacker's first wave. Careful, there is more to come!
+Level 2 Victory: H4ck3r: Damn, these anti-virus softwares are good, lets turn it up a notch...
+Level 3 Victory: H4ck3r: It seems that my malware isn't reaching the phone. I need to make it better.
+Level 4 Victory: H4ck3r: It seems that 4000 ransomware attacks occur daily, why cant mine kill them...
+Level 5 Victory: Unknown: Wow! You have got so far, keep fighting and we will win!
+Level 6 Victory: Unknown: Remember, careful what you do on public wifi, there are hackers on the loose.
+Level 7 Victory: H4ck3r: Wow, how is the AVS holding up so well. Come on, just let me in...
+Level 8 Victory: Unknown: We are doing so well against the hacker. Lets keep going, we have this!
+Level 9 Victory: H4ck3r: I have to go all in, this is my last effort to beat them...
+Level 10 Victory: Unknown: Hooray, we did it! We completed the mission, the hacker is no more.
